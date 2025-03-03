@@ -4,7 +4,6 @@ Extract and parse table from https://prosettings.net/cs-go-pro-settings-gear-lis
 Print table
 """
 
-
 import os
 import time
 from numpy import dtype
